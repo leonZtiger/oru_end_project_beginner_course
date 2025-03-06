@@ -29,7 +29,7 @@ cd ngo2024
 ````
 ### Create the database
 Create a local server if not already created.
-Open the InitDB script and run it.
+Open the Ngo/script_ngo_2024.sql script and run it.
 This should have created a local database with test data.
 
 ### Run the Application
